@@ -1,10 +1,5 @@
 # NYC Planning EDM Website
 
-[planninglabs.nyc](https://planninglabs.nyc/) built with [Gatsby.js](https://www.gatsbyjs.org/docs/building-with-components/)
-
-
-![image](https://user-images.githubusercontent.com/409279/34015575-dd993eb6-e0ec-11e7-922e-f545b95819ca.png)
-
 
 ## How you can help
 
@@ -32,8 +27,8 @@ You will need the following things properly installed on your computer.
 
 ## Local development
 
-- Clone this repo `git clone git@github.com:NYCPlanning/labs-planninglabs-home.git`
-- Navigate to the project directory `cd labs-planninglabs-home`
+- Clone this repo `https://github.com/NYCPlanning/edm-home.git`
+- Navigate to the project directory `cd edm-home`
 - Run `yarn` to install dependencies
 - Run `yarn run` to list the following scripts
 - `gatsby develop` — Gatsby will start a hot-reloading development environment accessible at `localhost:8000`. Edit the javascript pages in src/pages. Saved changes will live reload in the browser.
@@ -53,4 +48,4 @@ This project can be deployed on any static web server.
 
 ## Contact us
 
-You can find us on Twitter at [@nycplanninglabs](https://twitter.com/nycplanninglabs), or comment on issues and we'll follow up as soon as we can. If you'd like to send an email, use [labs_dl@planning.nyc.gov](mailto:labs_dl@planning.nyc.gov)
+You can find us on Twitter at [@nycplanning](https://twitter.com/NYCPlanning), or comment on issues and we'll follow up as soon as we can. If you'd like to send an email, use [edm_dl@planning.nyc.gov](mailto:edm_dl@planning.nyc.gov)
